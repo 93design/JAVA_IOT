@@ -11,7 +11,7 @@ public class Bmi {
       System.out.println("Enter your weight (kg):");
       int weight = keyboard.nextInt();
       
-      double bmi = (weight) / (length * length);
+      double bmi = ((weight) / (length * length)) *100;
       
       System.out.println("Your BMI is: " + bmi);
       if (bmi <= 20) {
