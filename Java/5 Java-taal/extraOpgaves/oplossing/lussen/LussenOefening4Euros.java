@@ -21,10 +21,10 @@ public class LussenOefening4Euros {
 		int count1 = 0;
 		
 		while(geld >0) {
-			if (geld%500==0) {
+			if (geld%500!=0) {
 				count500++;
 				geld-=500;
-			} else if (geld <500 &&geld%200 ==0) {						
+			} else if (geld <200 &&geld%200 ==0) {						
 					count200++;
 					geld-=200;				
 			} else if (geld%100==0) {

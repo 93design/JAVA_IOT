@@ -29,7 +29,7 @@ public class LussenOefening4Euros2 {
 			} else if(geld >=200) {
 				count200= (int) geld/200;
 				geld = geld % 100;
-			}else if(geld >=500) {
+			}else if(geld >=100) {
 				count100= (int) geld/100;
 				geld = geld % 100;
 			}else if(geld >=50) {
