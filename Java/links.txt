@@ -1,0 +1,28 @@
+W3school: 
+https://www.w3schools.com/java/
+
+OracleSchool: 
+https://docs.oracle.com/javase/tutorial/
+
+CodingBat: 
+https://codingbat.com/java
+
+
+w3 resources:
+https://www.w3resource.com/java-exercises/basic/index.php
+7
+
+NTU (oefeningen):
+http://www.ntu.edu.sg/home/ehchua/programming/java/J2a_BasicsExercises.html
+Derek Banas:
+
+
+
+
+
+
+
+
+
+Learn to help yourself: 
+https://www.reddit.com/r/javahelp/wiki/learn_to_help_yourself
