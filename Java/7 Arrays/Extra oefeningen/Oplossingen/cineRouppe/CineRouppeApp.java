@@ -21,11 +21,11 @@ public class CineRouppeApp {
 		
 
 		System.out.print("age: ");
-		int age = keyboard.nextInt() - 1;
+		int age = keyboard.nextInt();
 		
 		if (age < 16) {
 			ticketPrice /=2;
-		} else if (age < 65) {
+		} else if (age > 65) {
 			ticketPrice *=0.8;
 		}
 		
