@@ -1,4 +1,4 @@
-package carEnginePassengerUML;
+package AssosiatieCar;
 
 public class CarApp {
 

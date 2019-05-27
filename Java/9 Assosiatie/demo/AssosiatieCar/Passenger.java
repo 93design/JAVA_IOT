@@ -1,5 +1,4 @@
-package carEnginePassengerUML;
-
+package AssosiatieCar;
 public class Passenger {
 	
 	private String name;

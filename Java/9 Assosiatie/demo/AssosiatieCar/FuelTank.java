@@ -1,5 +1,4 @@
-package carEnginePassengerUML;
-
+package AssosiatieCar;
 public class FuelTank {
 
 	private float litersFuel;
