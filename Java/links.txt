@@ -10,11 +10,13 @@ https://codingbat.com/java
 
 w3 resources:
 https://www.w3resource.com/java-exercises/basic/index.php
-7
+
 
 NTU (oefeningen):
 http://www.ntu.edu.sg/home/ehchua/programming/java/J2a_BasicsExercises.html
+
 Derek Banas:
+	Youtube
 
 
 
