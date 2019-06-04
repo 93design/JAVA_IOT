@@ -1,4 +1,4 @@
-package demo1;
+package BycicleDemo;
 
 public class OneWheel extends Bicycle {
 

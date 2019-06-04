@@ -1,4 +1,4 @@
-package demo1;
+package BycicleDemo;
 
 public class Bicycle {
     // the Bicycle class has three fields

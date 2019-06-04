@@ -1,4 +1,4 @@
-package CarUml.Eddy;
+package CarUmlEddy;
 
 public class Car {
 	//basic car class has 3 properties

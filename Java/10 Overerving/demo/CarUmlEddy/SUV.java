@@ -1,4 +1,4 @@
-package CarUml.Eddy;
+package CarUmlEddy;
 public class SUV extends Car{
     private String bullBar;
 

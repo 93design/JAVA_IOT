@@ -1,4 +1,4 @@
-package CarUml.Eddy;
+package CarUmlEddy;
 public class Convertible extends Car{
 
     private String sunroof;

@@ -1,4 +1,4 @@
-package CarUml.Eddy;
+package CarUmlEddy;
 public class SportsCar extends Car{
 
     private String spoiler;

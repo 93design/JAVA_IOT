@@ -1,4 +1,4 @@
-package CarUml.Eddy;
+package CarUmlEddy;
 public class ElectricalCar extends Car{
     private String battery;
     private int volt = 0;
