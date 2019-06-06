@@ -1,6 +1,6 @@
 package AnimalInheritanceAbstract;
 
-public class Animal {
+public abstract class Animal {
 		
 	private String name = ""; 
 	public String favFood = "";

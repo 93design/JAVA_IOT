@@ -1,11 +1,9 @@
 package AnimalInheritanceAbstract;
 
 public class AnimalAppv2 {
-
+	
+	
 	public static void main(String args[]) {
-
-		Animal ani1 = new Animal();
-		Animal ani2 = new Animal("Robert", "frikadellen");
 
 		Cat kitty1 = new Cat();
 		Cat kitty2 = new Cat("Sasha", "Tuna", "RingingBall");
@@ -13,6 +11,8 @@ public class AnimalAppv2 {
 		Bird birdy1 = new Bird();
 		Bird birdy2 = new Bird("Tweety", "SquidBack", "The acme Song");
 
+		//kan nu geen initialisaties van animal klasse meer maken 
+		//maar wel nog van de subklasses
 		Animal birdy3 = new Bird();
 		System.out.println(Animal.counter);
 		System.out.println(Bird.counter);
