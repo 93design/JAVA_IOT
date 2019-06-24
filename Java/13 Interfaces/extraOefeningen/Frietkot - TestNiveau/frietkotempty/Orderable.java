@@ -1,4 +1,4 @@
-package frietkot;
+package frietkotempty;
 
 public interface Orderable {
 	
