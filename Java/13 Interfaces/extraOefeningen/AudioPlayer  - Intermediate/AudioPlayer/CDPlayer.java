@@ -1,6 +1,6 @@
 package AudioPlayer;
 
-public class CDPlayer implements Player{
+public class CDPlayer implements Playable{
 	boolean sound = true;
 	@Override
 	public void Play() {

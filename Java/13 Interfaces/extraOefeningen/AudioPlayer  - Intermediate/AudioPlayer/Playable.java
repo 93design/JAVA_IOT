@@ -1,6 +1,6 @@
 package AudioPlayer;
 
-public interface Player {
+public interface Playable {
 	
 	void Play();
 	void Stop();

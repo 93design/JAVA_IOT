@@ -1,6 +1,6 @@
 package AudioPlayer;
 
-public class DvdPlayer implements Player {
+public class DvdPlayer implements Playable {
 	
 	boolean sound = false;
 	@Override

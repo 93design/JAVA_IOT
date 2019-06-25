@@ -33,7 +33,7 @@ public class TapePlayer implements Recorder{
 	public void record() {
 		sound = true;
 		recording = true;
-		System.out.println("TapePlayer is stopped");
+		System.out.println("TapePlayer is recording ");
 	}
 
 }
