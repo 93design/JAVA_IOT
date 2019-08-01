@@ -1,30 +1,17 @@
-W3school: 
-https://www.w3schools.com/java/
 
-OracleSchool: 
-https://docs.oracle.com/javase/tutorial/
+Telusko Playlist
+	Telusko in stukjes
+	https://www.youtube.com/watch?v=8cm1x4bC610&list=PLsyeobzWxl7pSqMzPF_SlvQ0IdcGA-XI2
+	
+	alles 7u
+	https://www.youtube.com/watch?v=8cm1x4bC610&list=PLsyeobzWxl7pSqMzPF_SlvQ0IdcGA-XI2
 
-CodingBat: 
-https://codingbat.com/java
+	Fundamentels Full course:
+	https://www.youtube.com/watch?v=8cm1x4bC610
 
+	Static video
+	https://www.youtube.com/watch?v=IPJYL18NCpw
 
-w3 resources:
-https://www.w3resource.com/java-exercises/basic/index.php
-
-
-NTU (oefeningen):
-http://www.ntu.edu.sg/home/ehchua/programming/java/J2a_BasicsExercises.html
-
-Derek Banas:
-	Youtube
-
-
-
-
-
-
-
-
-
-Learn to help yourself: 
-https://www.reddit.com/r/javahelp/wiki/learn_to_help_yourself
+Derek Banas 
+	alles in 2u15: 
+	https://www.youtube.com/watch?v=n-xAqcBCws4
