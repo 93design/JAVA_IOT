@@ -13,7 +13,35 @@ Derek Banas
 	alles in 2u15: 
 	https://www.youtube.com/watch?v=n-xAqcBCws4
 
-Arrays: 
-		text: https://www.tutorialspoint.com/java/java_arrays
-		video
+Overzicht + oefeningen: 
+		text: 
+			https://www.ntu.edu.sg/home/ehchua/programming/java/J3f_OOPExercises.html#zz-4.
 
+
+
+Array: 
+		text: https://www.tutorialspoint.com/java/java_arrays
+			  https://www.dyclassroom.com/java/java-arrays
+			  https://www.dyclassroom.com/java/java-two-dimensional-arrays
+		video: 
+			https://www.youtube.com/watch?v=fuDNAKStpq0
+		Oefeningen: https://www.w3resource.com/java-exercises/array/index.php
+
+Arrays Library:
+		text: https://www.geeksforgeeks.org/array-class-in-java/
+		video: https://www.youtube.com/watch?v=9f3BbIJN-Ls
+
+Classes: 
+		Oefeningen: 
+			https://www.ntu.edu.sg/home/ehchua/programming/java/J3f_OOPExercises.html
+
+Inheritance
+		
+			https://www.ntu.edu.sg/home/ehchua/programming/java/J3f_OOPExercises.html#zz-4.
+
+Design Patterns: 
+		Wat is het?
+		https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07
+
+		Factory design:
+		https://www.youtube.com/watch?v=ub0DXaeV6hA&list=PLF206E906175C7E07&index=5
