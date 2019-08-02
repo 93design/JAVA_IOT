@@ -1,13 +1,10 @@
 
 Telusko Playlist
 	Telusko in stukjes
-	https://www.youtube.com/watch?v=8cm1x4bC610&list=PLsyeobzWxl7pSqMzPF_SlvQ0IdcGA-XI2
+	https://www.youtube.com/watch?v=1kkvalOcSog&list=PLsyeobzWxl7pFZoGT1NbZJpywedeyzyaf
 	
-	alles 7u
-	https://www.youtube.com/watch?v=8cm1x4bC610&list=PLsyeobzWxl7pSqMzPF_SlvQ0IdcGA-XI2
-
 	Fundamentels Full course:
-	https://www.youtube.com/watch?v=8cm1x4bC610
+	https://www.youtube.com/watch?v=1kkvalOcSog&list=PLsyeobzWxl7pFZoGT1NbZJpywedeyzyaf
 
 	Static video
 	https://www.youtube.com/watch?v=IPJYL18NCpw
@@ -15,3 +12,8 @@ Telusko Playlist
 Derek Banas 
 	alles in 2u15: 
 	https://www.youtube.com/watch?v=n-xAqcBCws4
+
+Arrays: 
+		text: https://www.tutorialspoint.com/java/java_arrays
+		video
+
