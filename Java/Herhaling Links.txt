@@ -45,3 +45,12 @@ Design Patterns:
 
 		Factory design:
 		https://www.youtube.com/watch?v=ub0DXaeV6hA&list=PLF206E906175C7E07&index=5
+
+Nested Class: 
+	https://www.youtube.com/watch?v=V7yVbG9_xkM
+ 
+Exception:
+	https://www.geeksforgeeks.org/java-gq/exception-handling-2-gq/
+
+Interfaces: 
+	https://w3.cs.jmu.edu/spragunr/CS239/lectures/interfaces/interface_worksheet_solutions.shtml
