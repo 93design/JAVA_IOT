@@ -39,6 +39,14 @@ Inheritance
 		
 			https://www.ntu.edu.sg/home/ehchua/programming/java/J3f_OOPExercises.html#zz-4.
 
+ENUM:
+	https://tedvinke.wordpress.com/2016/04/14/2-rookie-java-constants-and-enums-pitfalls/
+
+OOP Patterns: 
+		https://www.ntu.edu.sg/home/ehchua/programming/java/J3f_OOPExercises.html
+
+
+
 Design Patterns: 
 		Wat is het?
 		https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07
@@ -54,3 +62,6 @@ Exception:
 
 Interfaces: 
 	https://w3.cs.jmu.edu/spragunr/CS239/lectures/interfaces/interface_worksheet_solutions.shtml
+
+Imposter Syndrome
+	https://www.codingdojo.com/blog/programmer-imposter-syndrome
