@@ -1,0 +1,19 @@
+Project Naam: Touchy Feely
+
+Analyse:
+Onderdelen:
+	Arduino Uno
+	2 Resistor (220,1M)
+	Folie
+Schema: 
+	zie foto's folder
+Sketch
+	Arduino.ino bestand
+	
+
+Experimenteren
+	groter folie
+	met iets over
+	tressholds testen
+	vinger vs platte hand
+	
