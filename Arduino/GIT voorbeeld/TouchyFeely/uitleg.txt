@@ -1,0 +1,23 @@
+Project Naam: Touchy Feely
+
+Analyse: kan met een library en twee digitale pinnen een waarde uitlezen die een representatie heeft van de capaciteit van een object/folie door deze te verbinden met deze twee pinnen en een grote weerstand tussen
+Onderdelen:
+	Arduino Uno
+	2 Resistor (220,1M)
+	Folie
+Schema: 
+	zie foto's folder
+Sketch
+	Arduino.ino bestand
+Experimenteren
+	groter folie
+		snellere reactie
+	met iets over
+		lukt nog steeds
+	tressholds testen
+	vinger vs platte hand
+		meer capacitance
+
+	Signal filtering
+		output eerste grafiek vs output 2de grafiek
+	
